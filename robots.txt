@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maryoooo.github.io/sitemap.xml
